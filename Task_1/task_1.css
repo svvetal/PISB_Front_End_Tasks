@@ -1,0 +1,78 @@
+.login_box{
+    height : 62.5% ;
+    width : 22.5% ;
+    background-color: aquamarine;
+    margin-left: 40%;
+    margin-top: 6%;
+    border-radius: 20px;
+    box-shadow: 15px 15px 18px 2px rgb(112, 190, 226);
+    background-color: rgb(221, 221, 221);
+    
+}
+h3{
+    text-align: center;
+    padding-top : 2% ;
+    padding-bottom: 0%;
+    font-weight: 100px;
+}
+#input{
+    margin-left:15%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: small;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+#intxt{
+    margin-left: 15%;
+    width: 60%;
+    padding: 2%;
+    border: none;
+    border-bottom: 2px solid rgb(2, 167, 139);
+    background-color: rgb(221, 221, 221);
+}
+.submit{
+    margin-left: 18%;
+    margin-top: 5%;
+    padding : 3% ; 
+    border-radius: 20px; 
+    padding-left: 25%;
+    padding-right: 25%;
+    background-color: #206a9b;
+    border: none;
+    margin-bottom: 5%;
+    
+}
+.submit:hover{
+    background-color: rgb(24, 207, 231) ;
+    cursor: pointer;
+}
+.link_1{
+    margin-left: 30%;
+    color: red;
+}
+.link_2{
+    margin : 15%;
+    
+}
+hr{
+    width : 90% ;
+    border: 1px solid rgb(0, 0, 0);
+}
+.txt{
+    text-align: center;
+    margin : 0%;
+    padding : 0% ;
+}
+
+.google{
+    border-radius: 30px;
+    margin-left: 40%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+.google:hover{
+    filter:opacity(80%);
+}
+body{
+    background-color: #00395f;
+}
